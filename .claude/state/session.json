@@ -1,0 +1,38 @@
+{
+  "session_id": "785C1641-042B-4F34-B827-1F65A543DD8B",
+  "started_at": "2026-02-24T04:54:50Z",
+  "cwd": "/Users/andouryuuhei/Desktop/Link AIフォルダ",
+  "project_name": "Link AIフォルダ",
+  "prompt_seq": 3,
+  "git": {
+    "branch": "(no git)",
+    "uncommitted_changes": 0,
+    "last_commit": "none"
+  },
+  "plans": {
+    "exists": false,
+    "last_modified": 0,
+    "wip_tasks": 0,
+    "todo_tasks": 0,
+    "pending_tasks": 0,
+    "completed_tasks": 0
+  },
+  "changes_this_session": [
+    {
+      "file": "CLAUDE.md",
+      "action": "Write",
+      "timestamp": "2026-02-24T04:55:46Z",
+      "important": true
+    },
+    {
+      "file": "CLAUDE.md",
+      "action": "Edit",
+      "timestamp": "2026-02-24T04:59:16Z",
+      "important": true
+    }
+  ],
+  "intent": "literal",
+  "ended_at": "2026-02-24T04:55:53Z",
+  "duration_minutes": 541,
+  "memory_logged": true
+}
