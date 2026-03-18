@@ -1,14 +1,29 @@
 {
   "version": "1.0",
-  "updatedAt": "2026-02-24T04:54:50.975Z",
-  "skills": {},
+  "updatedAt": "2026-03-13T00:36:56.732Z",
+  "skills": {
+    "xlsx": {
+      "count": 1,
+      "lastUsed": "2026-03-01T14:44:36.363Z"
+    }
+  },
   "commands": {},
-  "agents": {},
+  "agents": {
+    "general-purpose": {
+      "count": 13,
+      "lastUsed": "2026-02-24T12:00:46.749Z"
+    }
+  },
   "hooks": {
     "session-init": {
-      "triggered": 1,
+      "triggered": 14,
       "blocked": 0,
-      "lastTriggered": "2026-02-24T04:54:50.975Z"
+      "lastTriggered": "2026-03-13T00:36:56.732Z"
+    },
+    "pretooluse-guard": {
+      "triggered": 1,
+      "blocked": 1,
+      "lastTriggered": "2026-03-06T01:25:04.705Z"
     }
   }
 }

@@ -1,0 +1,13 @@
+{
+  "version": "1.0",
+  "updatedAt": "2026-02-24T09:29:15.226Z",
+  "skills": {},
+  "commands": {},
+  "agents": {
+    "general-purpose": {
+      "count": 5,
+      "lastUsed": "2026-02-24T09:29:15.225Z"
+    }
+  },
+  "hooks": {}
+}
