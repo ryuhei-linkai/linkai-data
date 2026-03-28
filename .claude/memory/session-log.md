@@ -266,3 +266,129 @@
 - （必要に応じて追記）
 
 ---
+
+## セッション: 2026-03-20T04:27:10Z
+
+- session_id: `6771FCCC-2F0D-4C58-90B3-79D55770CBE5`
+- project: `Link AIフォルダ`
+- branch: `main`
+- started_at: `2026-03-20T04:22:46Z`
+- ended_at: `2026-03-20T04:27:10Z`
+- duration_minutes: 544
+- changes: 0
+
+### 変更ファイル
+- （なし）
+
+### 重要な変更（important=true）
+- （なし）
+
+### 次回への引き継ぎ（任意）
+- （必要に応じて追記）
+
+---
+
+## セッション: 2026-03-20T04:46:16Z
+
+- session_id: `24E095C6-DED9-4F05-82F2-9686E6BB4613`
+- project: `Link AIフォルダ`
+- branch: `main`
+- started_at: `2026-03-20T04:45:41Z`
+- ended_at: `2026-03-20T04:46:16Z`
+- duration_minutes: 540
+- changes: 0
+
+### 変更ファイル
+- （なし）
+
+### 重要な変更（important=true）
+- （なし）
+
+### 次回への引き継ぎ（任意）
+- （必要に応じて追記）
+
+---
+
+## セッション: 2026-03-20T04:49:42Z
+
+- session_id: `38682DB5-618B-40AB-81E4-7B92BF534555`
+- project: `Link AIフォルダ`
+- branch: `main`
+- started_at: `2026-03-20T04:48:47Z`
+- ended_at: `2026-03-20T04:49:42Z`
+- duration_minutes: 540
+- changes: 0
+
+### 変更ファイル
+- （なし）
+
+### 重要な変更（important=true）
+- （なし）
+
+### 次回への引き継ぎ（任意）
+- （必要に応じて追記）
+
+---
+
+## セッション: 2026-03-20T04:58:06Z
+
+- session_id: `E6BBCA0E-536A-4AEF-A583-9D05FC274EB3`
+- project: `Link AIフォルダ`
+- branch: `main`
+- started_at: `2026-03-20T04:56:56Z`
+- ended_at: `2026-03-20T04:58:06Z`
+- duration_minutes: 541
+- changes: 0
+
+### 変更ファイル
+- （なし）
+
+### 重要な変更（important=true）
+- （なし）
+
+### 次回への引き継ぎ（任意）
+- （必要に応じて追記）
+
+---
+
+## セッション: 2026-03-27T08:41:19Z
+
+- session_id: `B0CBA7C0-4569-4FC3-851E-FFEC7D64C332`
+- project: `Link AIフォルダ`
+- branch: `main`
+- started_at: `2026-03-27T08:39:41Z`
+- ended_at: `2026-03-27T08:41:19Z`
+- duration_minutes: 541
+- changes: 1
+
+### 変更ファイル
+- `.mcp.json`
+
+### 重要な変更（important=true）
+- （なし）
+
+### 次回への引き継ぎ（任意）
+- （必要に応じて追記）
+
+---
+
+## セッション: 2026-03-27T08:42:31Z
+
+- session_id: `96051867-74AF-43C3-A541-4CDCB1D3C5F3`
+- project: `Link AIフォルダ`
+- branch: `main`
+- started_at: `2026-03-27T08:41:47Z`
+- ended_at: `2026-03-27T08:42:31Z`
+- duration_minutes: 540
+- changes: 0
+
+### 変更ファイル
+- （なし）
+
+### 重要な変更（important=true）
+- （なし）
+
+### 次回への引き継ぎ（任意）
+- （必要に応じて追記）
+
+---

@@ -2,10 +2,28 @@
   "mcpServers": {
     "slack": {
       "command": "npx",
-      "args": ["-y", "@modelcontextprotocol/server-slack"],
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-slack"
+      ],
       "env": {
         "SLACK_BOT_TOKEN": "${SLACK_BOT_TOKEN}",
         "SLACK_TEAM_ID": "${SLACK_TEAM_ID}"
+      }
+    },
+    "cognee": {
+      "type": "sse",
+      "url": "http://127.0.0.1:8100/sse"
+    },
+    "suishin": {
+      "command": "npx",
+      "args": [
+        "tsx",
+        "packages/mcp-server/src/cli.ts"
+      ],
+      "env": {
+        "SUISHIN_API_KEY": "d4dfffa8f5979ef5f138084553125e6b9e28c54d40b7c9458d7a060a78967b9c",
+        "SUISHIN_API_URL": "https://d3obp3iyy07f8o.cloudfront.net/api/v1"
       }
     }
   }
